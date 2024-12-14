@@ -1,4 +1,4 @@
-[Robo em batalha](https://www.youtube.com/watch?v=KRQ-KQ0IOOg)
+[Robo em batalha]([https://www.youtube.com/watch?v=KRQ-KQ0IOOg](https://youtu.be/KRQ-KQ0IOOg))
 ---
 
 # **McClane3 Robocode Robot**
