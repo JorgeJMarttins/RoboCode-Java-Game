@@ -79,6 +79,9 @@ To run this robot:
 The **McClane3** robot is a highly dynamic and resilient bot in Robocode. Its combination of adaptive targeting, intelligent evasive maneuvers, and escape strategies make it a formidable opponent in the arena. By adjusting its behavior based on enemy detection and energy levels, it ensures that it remains a challenging adversary in combat.
 
 ---
+
+
+
 # Português
 # **Robô McClane3 Robocode**
 
