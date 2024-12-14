@@ -1,6 +1,6 @@
 [Meu Vídeo]()
 ---
-# English :us:
+
 # **McClane3 Robocode Robot**
 
 The **McClane3** robot is an advanced AI programmed for the *Robocode* game, a competitive programming environment where robots battle against each other. This robot is designed to implement a dynamic combat strategy by performing continuous radar scanning, adjusting its targeting system based on enemy positions, and employing evasion tactics to survive and deal damage. 
