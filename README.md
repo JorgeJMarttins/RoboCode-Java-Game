@@ -1,4 +1,3 @@
-Here's an exhaustive and detailed README for the code provided, written in English:
 
 ---
 
